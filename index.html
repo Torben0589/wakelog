@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>WakeLog</title>
+    <meta name="description" content="Persönliches, lokales Schlaf- und Aufwachprotokoll." />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#0A1220" />
+
+    <!-- Web-App-Manifest & Icons (relative Pfade: funktioniert auch in Unterordnern, z. B. GitHub Pages) -->
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" type="image/svg+xml" href="./icons/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./icons/favicon-32.png" />
+
+    <!-- iOS: Home-Bildschirm -->
+    <link rel="apple-touch-icon" sizes="180x180" href="./icons/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="WakeLog" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <!-- Theme vor dem ersten Rendern setzen (kein Aufblitzen). Logik identisch zu src/lib/settings.ts -->
+    <script>
+      (function () {
+        var pref = 'system';
+        try {
+          var raw = localStorage.getItem('wakelog.settings.v1');
+          if (raw) { var p = JSON.parse(raw).theme; if (p === 'light' || p === 'dark') pref = p; }
+        } catch (e) {}
+        var dark = pref === 'dark' || (pref === 'system' && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches);
+        document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>WakeLog benötigt JavaScript.</noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

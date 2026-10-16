@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16305C"/>
+      <stop offset="1" stop-color="#0A1631"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5FE0D2" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#5FE0D2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect id="background" width="1024" height="1024" rx="228" fill="url(#bg)"/>
+  <!-- Zifferblatt -->
+  <circle cx="512" cy="512" r="330" fill="none" stroke="#9DB4DD" stroke-opacity="0.32" stroke-width="26"/>
+  <!-- 4 Markierungen -->
+  <g stroke="#C9D7F0" stroke-opacity="0.75" stroke-width="26" stroke-linecap="round">
+    <line x1="512" y1="214" x2="512" y2="262"/>
+    <line x1="810" y1="512" x2="762" y2="512"/>
+    <line x1="512" y1="810" x2="512" y2="762"/>
+    <line x1="214" y1="512" x2="262" y2="512"/>
+  </g>
+  <!-- Bogen 00:00 → 03:30 (dokumentierte Nacht) -->
+  <path d="M512 182 A330 330 0 0 1 789 691" fill="none" stroke="#5FE0D2" stroke-width="26" stroke-linecap="round" stroke-opacity="0.9"/>
+  <!-- Mondsichel -->
+  <path id="crescent" d="M441.6 326.9 A215 215 0 1 0 671.3 615.5 A185 185 0 0 1 441.6 326.9 Z" fill="#EEF3FB"/>
+  <!-- Aufwach-Punkt -->
+  <circle cx="789" cy="691" r="120" fill="url(#glow)"/>
+  <circle cx="789" cy="691" r="54" fill="#5FE0D2"/>
+  <circle cx="789" cy="691" r="54" fill="none" stroke="#0A1631" stroke-width="14"/>
+</svg>

@@ -1,0 +1,1059 @@
+{
+  "format": "wakelog-backup",
+  "schemaVersion": 1,
+  "app": "WakeLog",
+  "appVersion": "1.0.0",
+  "exportedAt": "2026-10-16T08:00:00.000Z",
+  "_hinweis": "BEISPIELDATEN – frei erfunden, nur zum Ausprobieren der Statistik. Nicht mit echten Daten mischen (vorher eigene Sicherung exportieren).",
+  "settings": {
+    "theme": "system",
+    "binSize": 15,
+    "defaultPeriod": "30",
+    "earlyWindowEnabled": true,
+    "earlyWindowFrom": "03:00",
+    "earlyWindowTo": "04:00"
+  },
+  "episodes": [
+    {
+      "id": "0c5c7fd0-a6a3-a450-6513-270e269e0d37",
+      "nightDate": "2026-08-10",
+      "createdAt": "2026-08-11T05:30:00.000Z",
+      "updatedAt": "2026-08-11T05:30:00.000Z",
+      "bedTime": "2026-08-10T21:04:00.000Z",
+      "gotUpAt": "2026-08-11T05:14:00.000Z"
+    },
+    {
+      "id": "0cb1e29c-658c-da14-95e6-0af593bd04cf",
+      "nightDate": "2026-08-11",
+      "createdAt": "2026-08-12T05:30:00.000Z",
+      "updatedAt": "2026-08-12T05:30:00.000Z",
+      "bedTime": "2026-08-11T20:32:00.000Z",
+      "gotUpAt": "2026-08-12T05:09:00.000Z"
+    },
+    {
+      "id": "1a61dbe2-2e44-158b-ae97-ba94d0eda82f",
+      "nightDate": "2026-08-13",
+      "createdAt": "2026-08-14T05:30:00.000Z",
+      "updatedAt": "2026-08-14T05:30:00.000Z",
+      "gotUpAt": "2026-08-14T04:54:00.000Z"
+    },
+    {
+      "id": "7403e430-ec66-a787-95e7-61d17731af10",
+      "nightDate": "2026-08-14",
+      "createdAt": "2026-08-15T05:30:00.000Z",
+      "updatedAt": "2026-08-15T05:30:00.000Z",
+      "bedTime": "2026-08-14T21:04:00.000Z",
+      "gotUpAt": "2026-08-15T05:36:00.000Z"
+    },
+    {
+      "id": "6b0a18e8-830e-07bc-1e39-8f1012bd4ace",
+      "nightDate": "2026-08-15",
+      "createdAt": "2026-08-16T05:30:00.000Z",
+      "updatedAt": "2026-08-16T05:30:00.000Z",
+      "bedTime": "2026-08-15T21:18:00.000Z",
+      "gotUpAt": "2026-08-16T05:08:00.000Z"
+    },
+    {
+      "id": "ae658f33-fe3b-890b-93f4-48b3a5aa3c81",
+      "nightDate": "2026-08-17",
+      "createdAt": "2026-08-18T05:30:00.000Z",
+      "updatedAt": "2026-08-18T05:30:00.000Z",
+      "gotUpAt": "2026-08-18T04:17:00.000Z"
+    },
+    {
+      "id": "b4d66a3a-4746-9a4d-8cdb-305fdd2e1609",
+      "nightDate": "2026-08-18",
+      "createdAt": "2026-08-19T05:30:00.000Z",
+      "updatedAt": "2026-08-19T05:30:00.000Z",
+      "gotUpAt": "2026-08-19T05:15:00.000Z"
+    },
+    {
+      "id": "6b4013ef-254b-0c4e-010c-4759482c9cbc",
+      "nightDate": "2026-08-19",
+      "createdAt": "2026-08-20T05:30:00.000Z",
+      "updatedAt": "2026-08-20T05:30:00.000Z",
+      "gotUpAt": "2026-08-20T04:58:00.000Z"
+    },
+    {
+      "id": "ae3a2b7f-dfe0-1893-f3ae-d0b6c7ac1491",
+      "nightDate": "2026-08-20",
+      "createdAt": "2026-08-21T05:30:00.000Z",
+      "updatedAt": "2026-08-21T05:30:00.000Z",
+      "bedTime": "2026-08-20T21:15:00.000Z",
+      "gotUpAt": "2026-08-21T04:14:00.000Z"
+    },
+    {
+      "id": "9118bb16-000f-49c8-1a35-8ca00d75985d",
+      "nightDate": "2026-08-21",
+      "createdAt": "2026-08-22T05:30:00.000Z",
+      "updatedAt": "2026-08-22T05:30:00.000Z",
+      "bedTime": "2026-08-21T21:04:00.000Z",
+      "gotUpAt": "2026-08-22T05:44:00.000Z"
+    },
+    {
+      "id": "d953ee26-1d87-cec3-1f72-96ab7961fd92",
+      "nightDate": "2026-08-22",
+      "createdAt": "2026-08-23T05:30:00.000Z",
+      "updatedAt": "2026-08-23T05:30:00.000Z",
+      "bedTime": "2026-08-22T21:14:00.000Z",
+      "gotUpAt": "2026-08-23T06:06:00.000Z"
+    },
+    {
+      "id": "b0a844e5-2587-be6b-5c9b-cf35873be078",
+      "nightDate": "2026-08-24",
+      "createdAt": "2026-08-25T05:30:00.000Z",
+      "updatedAt": "2026-08-25T05:30:00.000Z"
+    },
+    {
+      "id": "c7702420-8aa4-248c-8857-f9a43908f227",
+      "nightDate": "2026-08-25",
+      "createdAt": "2026-08-26T05:30:00.000Z",
+      "updatedAt": "2026-08-26T05:30:00.000Z",
+      "gotUpAt": "2026-08-26T05:00:00.000Z"
+    },
+    {
+      "id": "5822cb77-f4de-2c08-9aea-6429b1491e24",
+      "nightDate": "2026-08-26",
+      "createdAt": "2026-08-27T05:30:00.000Z",
+      "updatedAt": "2026-08-27T05:30:00.000Z",
+      "gotUpAt": "2026-08-27T04:49:00.000Z"
+    },
+    {
+      "id": "e39639be-7a60-5a91-3306-98a1c0093492",
+      "nightDate": "2026-08-27",
+      "createdAt": "2026-08-28T05:30:00.000Z",
+      "updatedAt": "2026-08-28T05:30:00.000Z",
+      "gotUpAt": "2026-08-28T04:16:00.000Z"
+    },
+    {
+      "id": "256badf9-a7e6-529b-ce76-e9f477216e9e",
+      "nightDate": "2026-08-29",
+      "createdAt": "2026-08-30T05:30:00.000Z",
+      "updatedAt": "2026-08-30T05:30:00.000Z",
+      "gotUpAt": "2026-08-30T05:24:00.000Z"
+    },
+    {
+      "id": "3678bc8d-4078-3f0a-072a-98d23606defc",
+      "nightDate": "2026-08-30",
+      "createdAt": "2026-08-31T05:30:00.000Z",
+      "updatedAt": "2026-08-31T05:30:00.000Z",
+      "bedTime": "2026-08-30T21:17:00.000Z",
+      "gotUpAt": "2026-08-31T05:04:00.000Z"
+    },
+    {
+      "id": "70ac06ac-df70-3017-04c9-d78d82b33599",
+      "nightDate": "2026-09-01",
+      "createdAt": "2026-09-02T05:30:00.000Z",
+      "updatedAt": "2026-09-02T05:30:00.000Z",
+      "bedTime": "2026-09-01T21:08:00.000Z",
+      "gotUpAt": "2026-09-02T05:11:00.000Z"
+    },
+    {
+      "id": "81f98b52-1905-d591-c5b2-e75a0acd8be1",
+      "nightDate": "2026-09-03",
+      "createdAt": "2026-09-04T05:30:00.000Z",
+      "updatedAt": "2026-09-04T05:30:00.000Z",
+      "bedTime": "2026-09-03T21:20:00.000Z",
+      "gotUpAt": "2026-09-04T05:11:00.000Z"
+    },
+    {
+      "id": "231b3e14-7291-35bd-d70a-39d133dcd77f",
+      "nightDate": "2026-09-04",
+      "createdAt": "2026-09-05T05:30:00.000Z",
+      "updatedAt": "2026-09-05T05:30:00.000Z",
+      "bedTime": "2026-09-04T20:52:00.000Z",
+      "gotUpAt": "2026-09-05T05:19:00.000Z"
+    },
+    {
+      "id": "249a4584-5dbe-3023-a906-922fa4b9a9c4",
+      "nightDate": "2026-09-05",
+      "createdAt": "2026-09-06T05:30:00.000Z",
+      "updatedAt": "2026-09-06T05:30:00.000Z",
+      "gotUpAt": "2026-09-06T05:55:00.000Z"
+    },
+    {
+      "id": "321c5296-6bd8-c676-56d0-50cd67601367",
+      "nightDate": "2026-09-06",
+      "createdAt": "2026-09-07T05:30:00.000Z",
+      "updatedAt": "2026-09-07T05:30:00.000Z",
+      "bedTime": "2026-09-06T21:05:00.000Z",
+      "gotUpAt": "2026-09-07T04:37:00.000Z"
+    },
+    {
+      "id": "eb25f8a1-fc2e-6a59-1ce3-bc0c10755c97",
+      "nightDate": "2026-09-07",
+      "createdAt": "2026-09-08T05:30:00.000Z",
+      "updatedAt": "2026-09-08T05:30:00.000Z",
+      "bedTime": "2026-09-07T20:36:00.000Z",
+      "gotUpAt": "2026-09-08T04:33:00.000Z"
+    },
+    {
+      "id": "9212824c-83c8-cb28-eb4e-d2e3895e8b6b",
+      "nightDate": "2026-09-08",
+      "createdAt": "2026-09-09T05:30:00.000Z",
+      "updatedAt": "2026-09-09T05:30:00.000Z",
+      "bedTime": "2026-09-08T21:29:00.000Z",
+      "gotUpAt": "2026-09-09T04:33:00.000Z"
+    },
+    {
+      "id": "1f2642aa-dcde-d204-43b3-0f66110e2cb6",
+      "nightDate": "2026-09-10",
+      "createdAt": "2026-09-11T05:30:00.000Z",
+      "updatedAt": "2026-09-11T05:30:00.000Z",
+      "bedTime": "2026-09-10T20:45:00.000Z",
+      "gotUpAt": "2026-09-11T04:39:00.000Z"
+    },
+    {
+      "id": "8005ce74-7218-88ff-4a3a-df9934b3ff60",
+      "nightDate": "2026-09-11",
+      "createdAt": "2026-09-12T05:30:00.000Z",
+      "updatedAt": "2026-09-12T05:30:00.000Z",
+      "bedTime": "2026-09-11T21:01:00.000Z",
+      "gotUpAt": "2026-09-12T05:55:00.000Z"
+    },
+    {
+      "id": "64a149f5-e383-8b9e-d5a9-422a8bc08311",
+      "nightDate": "2026-09-12",
+      "createdAt": "2026-09-13T05:30:00.000Z",
+      "updatedAt": "2026-09-13T05:30:00.000Z",
+      "gotUpAt": "2026-09-13T06:04:00.000Z"
+    },
+    {
+      "id": "b153d69c-3e01-aaa6-9949-8ac4482cc78e",
+      "nightDate": "2026-09-13",
+      "createdAt": "2026-09-14T05:30:00.000Z",
+      "updatedAt": "2026-09-14T05:30:00.000Z",
+      "bedTime": "2026-09-13T20:47:00.000Z",
+      "gotUpAt": "2026-09-14T04:31:00.000Z"
+    },
+    {
+      "id": "00460d69-2ed6-5411-5b49-156137c60e98",
+      "nightDate": "2026-09-15",
+      "createdAt": "2026-09-16T05:30:00.000Z",
+      "updatedAt": "2026-09-16T05:30:00.000Z",
+      "bedTime": "2026-09-15T21:09:00.000Z",
+      "gotUpAt": "2026-09-16T04:18:00.000Z"
+    },
+    {
+      "id": "4cb59aa7-05c2-2d3f-64db-c8d30aaaaf81",
+      "nightDate": "2026-09-16",
+      "createdAt": "2026-09-17T05:30:00.000Z",
+      "updatedAt": "2026-09-17T05:30:00.000Z",
+      "bedTime": "2026-09-16T21:25:00.000Z",
+      "gotUpAt": "2026-09-17T04:18:00.000Z"
+    },
+    {
+      "id": "6de2fb1f-a098-d691-8352-bc85e456559c",
+      "nightDate": "2026-09-18",
+      "createdAt": "2026-09-19T05:30:00.000Z",
+      "updatedAt": "2026-09-19T05:30:00.000Z",
+      "gotUpAt": "2026-09-19T06:04:00.000Z"
+    },
+    {
+      "id": "d38f8c45-041d-cd94-cdff-5a1cd01a914c",
+      "nightDate": "2026-09-19",
+      "createdAt": "2026-09-20T05:30:00.000Z",
+      "updatedAt": "2026-09-20T05:30:00.000Z",
+      "gotUpAt": "2026-09-20T06:08:00.000Z"
+    },
+    {
+      "id": "74fa9412-00d9-3534-4387-ee7b7d42646f",
+      "nightDate": "2026-09-20",
+      "createdAt": "2026-09-21T05:30:00.000Z",
+      "updatedAt": "2026-09-21T05:30:00.000Z",
+      "gotUpAt": "2026-09-21T04:36:00.000Z"
+    },
+    {
+      "id": "32c32444-a48c-1d5c-a1fe-b6249df2025f",
+      "nightDate": "2026-09-21",
+      "createdAt": "2026-09-22T05:30:00.000Z",
+      "updatedAt": "2026-09-22T05:30:00.000Z",
+      "bedTime": "2026-09-21T21:08:00.000Z",
+      "gotUpAt": "2026-09-22T04:34:00.000Z"
+    },
+    {
+      "id": "acfb2d5e-37ba-c233-b133-0c3f197a14e2",
+      "nightDate": "2026-09-22",
+      "createdAt": "2026-09-23T05:30:00.000Z",
+      "updatedAt": "2026-09-23T05:30:00.000Z",
+      "gotUpAt": "2026-09-23T04:10:00.000Z"
+    },
+    {
+      "id": "13932904-757f-1cba-4a22-7f39047b2c10",
+      "nightDate": "2026-09-23",
+      "createdAt": "2026-09-24T05:30:00.000Z",
+      "updatedAt": "2026-09-24T05:30:00.000Z"
+    },
+    {
+      "id": "1cd86fc1-e309-6619-4791-c2e9823d11ed",
+      "nightDate": "2026-09-25",
+      "createdAt": "2026-09-26T05:30:00.000Z",
+      "updatedAt": "2026-09-26T05:30:00.000Z",
+      "bedTime": "2026-09-25T21:13:00.000Z",
+      "gotUpAt": "2026-09-26T05:25:00.000Z"
+    },
+    {
+      "id": "40d28406-4a32-7e2d-bd6a-996de6cd10f1",
+      "nightDate": "2026-09-26",
+      "createdAt": "2026-09-27T05:30:00.000Z",
+      "updatedAt": "2026-09-27T05:30:00.000Z",
+      "bedTime": "2026-09-26T20:49:00.000Z",
+      "gotUpAt": "2026-09-27T05:47:00.000Z"
+    },
+    {
+      "id": "cfdcc257-076d-490a-e25f-4b1c6d80de7c",
+      "nightDate": "2026-09-27",
+      "createdAt": "2026-09-28T05:30:00.000Z",
+      "updatedAt": "2026-09-28T05:30:00.000Z",
+      "gotUpAt": "2026-09-28T04:38:00.000Z"
+    },
+    {
+      "id": "429a7079-a71f-11b2-f9ee-8bc8bd1e6912",
+      "nightDate": "2026-09-28",
+      "createdAt": "2026-09-29T05:30:00.000Z",
+      "updatedAt": "2026-09-29T05:30:00.000Z",
+      "bedTime": "2026-09-28T21:26:00.000Z",
+      "gotUpAt": "2026-09-29T05:03:00.000Z"
+    },
+    {
+      "id": "ff18fe33-5534-a034-e800-9d9073f6e53d",
+      "nightDate": "2026-09-29",
+      "createdAt": "2026-09-30T05:30:00.000Z",
+      "updatedAt": "2026-09-30T05:30:00.000Z",
+      "bedTime": "2026-09-29T21:12:00.000Z",
+      "gotUpAt": "2026-09-30T05:12:00.000Z"
+    },
+    {
+      "id": "69ac0f03-dee0-a843-bfe9-8f8c0524137f",
+      "nightDate": "2026-09-30",
+      "createdAt": "2026-10-01T05:30:00.000Z",
+      "updatedAt": "2026-10-01T05:30:00.000Z",
+      "gotUpAt": "2026-10-01T05:04:00.000Z"
+    },
+    {
+      "id": "37495c5e-d93f-f716-dce4-7b21ca51e152",
+      "nightDate": "2026-10-01",
+      "createdAt": "2026-10-02T05:30:00.000Z",
+      "updatedAt": "2026-10-02T05:30:00.000Z"
+    },
+    {
+      "id": "79281c19-cde3-47ab-e54c-5de6c3813ce6",
+      "nightDate": "2026-10-03",
+      "createdAt": "2026-10-04T05:30:00.000Z",
+      "updatedAt": "2026-10-04T05:30:00.000Z",
+      "bedTime": "2026-10-03T21:21:00.000Z",
+      "gotUpAt": "2026-10-04T05:19:00.000Z"
+    },
+    {
+      "id": "d34d1c0d-f105-8667-1be0-3df0ae9c78bd",
+      "nightDate": "2026-10-04",
+      "createdAt": "2026-10-05T05:30:00.000Z",
+      "updatedAt": "2026-10-05T05:30:00.000Z",
+      "gotUpAt": "2026-10-05T04:32:00.000Z"
+    },
+    {
+      "id": "1cb4ba55-c38b-48a2-b2d6-43a26ffb726a",
+      "nightDate": "2026-10-05",
+      "createdAt": "2026-10-06T05:30:00.000Z",
+      "updatedAt": "2026-10-06T05:30:00.000Z",
+      "bedTime": "2026-10-05T20:34:00.000Z"
+    },
+    {
+      "id": "31b1891a-0593-dba2-0e28-b64f4eb19fca",
+      "nightDate": "2026-10-06",
+      "createdAt": "2026-10-07T05:30:00.000Z",
+      "updatedAt": "2026-10-07T05:30:00.000Z",
+      "gotUpAt": "2026-10-07T04:54:00.000Z"
+    },
+    {
+      "id": "b2217139-08ba-9bd9-7e31-8ad63a0ea6e1",
+      "nightDate": "2026-10-07",
+      "createdAt": "2026-10-08T05:30:00.000Z",
+      "updatedAt": "2026-10-08T05:30:00.000Z",
+      "bedTime": "2026-10-07T21:30:00.000Z",
+      "gotUpAt": "2026-10-08T04:33:00.000Z"
+    },
+    {
+      "id": "9fa40dd6-f3b1-7af0-1be7-f3cf4b80b828",
+      "nightDate": "2026-10-08",
+      "createdAt": "2026-10-09T05:30:00.000Z",
+      "updatedAt": "2026-10-09T05:30:00.000Z",
+      "bedTime": "2026-10-08T21:24:00.000Z",
+      "gotUpAt": "2026-10-09T04:27:00.000Z"
+    },
+    {
+      "id": "0f650638-b5b9-4af3-0d45-6be06a56aac3",
+      "nightDate": "2026-10-10",
+      "createdAt": "2026-10-11T05:30:00.000Z",
+      "updatedAt": "2026-10-11T05:30:00.000Z",
+      "bedTime": "2026-10-10T20:55:00.000Z",
+      "gotUpAt": "2026-10-11T05:48:00.000Z"
+    },
+    {
+      "id": "2b54af77-7143-6e1d-54ea-2061fc27d683",
+      "nightDate": "2026-10-11",
+      "createdAt": "2026-10-12T05:30:00.000Z",
+      "updatedAt": "2026-10-12T05:30:00.000Z",
+      "bedTime": "2026-10-11T20:30:00.000Z",
+      "gotUpAt": "2026-10-12T04:15:00.000Z"
+    },
+    {
+      "id": "5b4c0d73-6150-2dee-3518-5376c2410ad1",
+      "nightDate": "2026-10-12",
+      "createdAt": "2026-10-13T05:30:00.000Z",
+      "updatedAt": "2026-10-13T05:30:00.000Z",
+      "bedTime": "2026-10-12T21:12:00.000Z",
+      "gotUpAt": "2026-10-13T04:51:00.000Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "8d116ece-1738-f7d9-3d9c-172411e20b8f",
+      "episodeId": "0c5c7fd0-a6a3-a450-6513-270e269e0d37",
+      "occurredAt": "2026-08-11T01:31:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-11T05:30:00.000Z",
+      "updatedAt": "2026-08-11T05:30:00.000Z"
+    },
+    {
+      "id": "f28c105d-1fb1-7c23-90c1-92cfd3ac94af",
+      "episodeId": "0c5c7fd0-a6a3-a450-6513-270e269e0d37",
+      "occurredAt": "2026-08-11T03:13:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-11T05:30:00.000Z",
+      "updatedAt": "2026-08-11T05:30:00.000Z"
+    },
+    {
+      "id": "7f150524-34b9-b5df-9e77-69b10f4205b4",
+      "episodeId": "1a61dbe2-2e44-158b-ae97-ba94d0eda82f",
+      "occurredAt": "2026-08-14T03:21:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-14T05:30:00.000Z",
+      "updatedAt": "2026-08-14T05:30:00.000Z"
+    },
+    {
+      "id": "57ee05cd-e009-02c7-7ebf-f20686734721",
+      "episodeId": "7403e430-ec66-a787-95e7-61d17731af10",
+      "occurredAt": "2026-08-15T01:31:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-15T05:30:00.000Z",
+      "updatedAt": "2026-08-15T05:30:00.000Z"
+    },
+    {
+      "id": "b1fee08f-5712-4242-5051-c1ccd17f9aca",
+      "episodeId": "6b0a18e8-830e-07bc-1e39-8f1012bd4ace",
+      "occurredAt": "2026-08-15T23:50:00.000Z",
+      "outcome": "got_up",
+      "createdAt": "2026-08-16T05:30:00.000Z",
+      "updatedAt": "2026-08-16T05:30:00.000Z"
+    },
+    {
+      "id": "74c9df6a-cc01-1cdd-9474-031b7f26144b",
+      "episodeId": "6b0a18e8-830e-07bc-1e39-8f1012bd4ace",
+      "occurredAt": "2026-08-16T02:41:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-16T05:30:00.000Z",
+      "updatedAt": "2026-08-16T05:30:00.000Z"
+    },
+    {
+      "id": "795e8229-451a-bd81-f1d6-9ed617f5e837",
+      "episodeId": "6b0a18e8-830e-07bc-1e39-8f1012bd4ace",
+      "occurredAt": "2026-08-16T03:19:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-16T05:30:00.000Z",
+      "updatedAt": "2026-08-16T05:30:00.000Z"
+    },
+    {
+      "id": "49952399-c4aa-eac1-37dc-76fb0f17a300",
+      "episodeId": "ae658f33-fe3b-890b-93f4-48b3a5aa3c81",
+      "occurredAt": "2026-08-17T23:55:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-18T05:30:00.000Z",
+      "updatedAt": "2026-08-18T05:30:00.000Z"
+    },
+    {
+      "id": "eab477d2-6415-479c-65dc-9f503f63af83",
+      "episodeId": "ae658f33-fe3b-890b-93f4-48b3a5aa3c81",
+      "occurredAt": "2026-08-18T01:35:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-18T05:30:00.000Z",
+      "updatedAt": "2026-08-18T05:30:00.000Z"
+    },
+    {
+      "id": "66d22876-72fd-f202-2a96-fb1a14a0f9e7",
+      "episodeId": "ae658f33-fe3b-890b-93f4-48b3a5aa3c81",
+      "occurredAt": "2026-08-18T01:39:00.000Z",
+      "outcome": "unknown",
+      "createdAt": "2026-08-18T05:30:00.000Z",
+      "updatedAt": "2026-08-18T05:30:00.000Z"
+    },
+    {
+      "id": "3bbbe9ea-a894-8c89-3b61-867626bb7dbd",
+      "episodeId": "b4d66a3a-4746-9a4d-8cdb-305fdd2e1609",
+      "occurredAt": "2026-08-19T01:32:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-19T05:30:00.000Z",
+      "updatedAt": "2026-08-19T05:30:00.000Z"
+    },
+    {
+      "id": "ad1b72db-a7ab-e1c2-9e1a-8ef4f341e07a",
+      "episodeId": "6b4013ef-254b-0c4e-010c-4759482c9cbc",
+      "occurredAt": "2026-08-20T01:41:00.000Z",
+      "outcome": "unknown",
+      "createdAt": "2026-08-20T05:30:00.000Z",
+      "updatedAt": "2026-08-20T05:30:00.000Z"
+    },
+    {
+      "id": "3571810a-fc13-2d0d-113d-b17d30cbc97d",
+      "episodeId": "ae3a2b7f-dfe0-1893-f3ae-d0b6c7ac1491",
+      "occurredAt": "2026-08-21T00:00:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-21T05:30:00.000Z",
+      "updatedAt": "2026-08-21T05:30:00.000Z"
+    },
+    {
+      "id": "a268aa87-2607-679d-6050-914a9d33a01c",
+      "episodeId": "9118bb16-000f-49c8-1a35-8ca00d75985d",
+      "occurredAt": "2026-08-22T01:31:00.000Z",
+      "outcome": "unknown",
+      "createdAt": "2026-08-22T05:30:00.000Z",
+      "updatedAt": "2026-08-22T05:30:00.000Z"
+    },
+    {
+      "id": "d42fddbb-7a86-f7a2-43c7-1b9abd87a865",
+      "episodeId": "d953ee26-1d87-cec3-1f72-96ab7961fd92",
+      "occurredAt": "2026-08-23T01:31:00.000Z",
+      "outcome": "stayed_awake",
+      "createdAt": "2026-08-23T05:30:00.000Z",
+      "updatedAt": "2026-08-23T05:30:00.000Z"
+    },
+    {
+      "id": "5de00997-84b5-a818-42d8-7208d86f40f6",
+      "episodeId": "b0a844e5-2587-be6b-5c9b-cf35873be078",
+      "occurredAt": "2026-08-25T02:53:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-25T05:30:00.000Z",
+      "updatedAt": "2026-08-25T05:30:00.000Z"
+    },
+    {
+      "id": "8483f8b8-332d-d331-3a0b-9965cda6c6fd",
+      "episodeId": "c7702420-8aa4-248c-8857-f9a43908f227",
+      "occurredAt": "2026-08-26T01:42:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-26T05:30:00.000Z",
+      "updatedAt": "2026-08-26T05:30:00.000Z"
+    },
+    {
+      "id": "0726e25c-fd56-a926-076b-3e36bb2313f5",
+      "episodeId": "c7702420-8aa4-248c-8857-f9a43908f227",
+      "occurredAt": "2026-08-26T01:43:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-26T05:30:00.000Z",
+      "updatedAt": "2026-08-26T05:30:00.000Z"
+    },
+    {
+      "id": "fc394724-9fc2-d0a1-7b8f-2ab53451d013",
+      "episodeId": "5822cb77-f4de-2c08-9aea-6429b1491e24",
+      "occurredAt": "2026-08-27T01:31:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-27T05:30:00.000Z",
+      "updatedAt": "2026-08-27T05:30:00.000Z"
+    },
+    {
+      "id": "e8c14743-7abe-c539-007d-1034d726c86b",
+      "episodeId": "5822cb77-f4de-2c08-9aea-6429b1491e24",
+      "occurredAt": "2026-08-27T01:36:00.000Z",
+      "outcome": "unknown",
+      "createdAt": "2026-08-27T05:30:00.000Z",
+      "updatedAt": "2026-08-27T05:30:00.000Z"
+    },
+    {
+      "id": "d5ab8b4d-15b4-0aeb-a4a4-5effccb573d9",
+      "episodeId": "5822cb77-f4de-2c08-9aea-6429b1491e24",
+      "occurredAt": "2026-08-27T01:37:00.000Z",
+      "outcome": "stayed_awake",
+      "createdAt": "2026-08-27T05:30:00.000Z",
+      "updatedAt": "2026-08-27T05:30:00.000Z"
+    },
+    {
+      "id": "b98c67c2-15bd-448f-f261-49edbe4c5ce6",
+      "episodeId": "e39639be-7a60-5a91-3306-98a1c0093492",
+      "occurredAt": "2026-08-28T02:46:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-28T05:30:00.000Z",
+      "updatedAt": "2026-08-28T05:30:00.000Z"
+    },
+    {
+      "id": "b9f3635c-f88c-422b-cca2-a92b03a56cc1",
+      "episodeId": "256badf9-a7e6-529b-ce76-e9f477216e9e",
+      "occurredAt": "2026-08-30T01:37:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-30T05:30:00.000Z",
+      "updatedAt": "2026-08-30T05:30:00.000Z"
+    },
+    {
+      "id": "23a5ef88-ef02-090b-bfde-fc1586ce03f9",
+      "episodeId": "256badf9-a7e6-529b-ce76-e9f477216e9e",
+      "occurredAt": "2026-08-30T03:18:00.000Z",
+      "outcome": "stayed_awake",
+      "createdAt": "2026-08-30T05:30:00.000Z",
+      "updatedAt": "2026-08-30T05:30:00.000Z"
+    },
+    {
+      "id": "e5cfedfa-5a91-96f0-bd6b-881ae8f6e0bd",
+      "episodeId": "3678bc8d-4078-3f0a-072a-98d23606defc",
+      "occurredAt": "2026-08-31T00:03:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-31T05:30:00.000Z",
+      "updatedAt": "2026-08-31T05:30:00.000Z"
+    },
+    {
+      "id": "844a7034-e77f-fe48-d0a6-ec179556585e",
+      "episodeId": "3678bc8d-4078-3f0a-072a-98d23606defc",
+      "occurredAt": "2026-08-31T01:43:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-08-31T05:30:00.000Z",
+      "updatedAt": "2026-08-31T05:30:00.000Z"
+    },
+    {
+      "id": "aead44b0-5373-90e5-0fcf-31ca8e752fdf",
+      "episodeId": "70ac06ac-df70-3017-04c9-d78d82b33599",
+      "occurredAt": "2026-09-01T23:59:00.000Z",
+      "outcome": "stayed_awake",
+      "createdAt": "2026-09-02T05:30:00.000Z",
+      "updatedAt": "2026-09-02T05:30:00.000Z"
+    },
+    {
+      "id": "c6c80e2b-c8c6-14b2-7b84-44d18e317041",
+      "episodeId": "70ac06ac-df70-3017-04c9-d78d82b33599",
+      "occurredAt": "2026-09-02T01:32:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-02T05:30:00.000Z",
+      "updatedAt": "2026-09-02T05:30:00.000Z"
+    },
+    {
+      "id": "8216858f-73cc-ef03-46f5-a1b4b156d1ad",
+      "episodeId": "81f98b52-1905-d591-c5b2-e75a0acd8be1",
+      "occurredAt": "2026-09-04T01:37:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-04T05:30:00.000Z",
+      "updatedAt": "2026-09-04T05:30:00.000Z"
+    },
+    {
+      "id": "3f665ede-f106-37ce-81fc-069e7a609683",
+      "episodeId": "81f98b52-1905-d591-c5b2-e75a0acd8be1",
+      "occurredAt": "2026-09-04T01:44:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-04T05:30:00.000Z",
+      "updatedAt": "2026-09-04T05:30:00.000Z"
+    },
+    {
+      "id": "ed84e91e-f132-bf2d-e040-015ce064a114",
+      "episodeId": "81f98b52-1905-d591-c5b2-e75a0acd8be1",
+      "occurredAt": "2026-09-04T03:19:00.000Z",
+      "outcome": "stayed_awake",
+      "createdAt": "2026-09-04T05:30:00.000Z",
+      "updatedAt": "2026-09-04T05:30:00.000Z"
+    },
+    {
+      "id": "c8b007ee-4d82-feac-ab62-86cd3672d6ae",
+      "episodeId": "231b3e14-7291-35bd-d70a-39d133dcd77f",
+      "occurredAt": "2026-09-05T02:43:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-05T05:30:00.000Z",
+      "updatedAt": "2026-09-05T05:30:00.000Z"
+    },
+    {
+      "id": "d51b1815-aaf7-19f3-fd68-373b29acf1a5",
+      "episodeId": "249a4584-5dbe-3023-a906-922fa4b9a9c4",
+      "occurredAt": "2026-09-06T01:36:00.000Z",
+      "outcome": "unknown",
+      "createdAt": "2026-09-06T05:30:00.000Z",
+      "updatedAt": "2026-09-06T05:30:00.000Z"
+    },
+    {
+      "id": "54dd0ba5-6264-67ba-04a1-0547b401ba85",
+      "episodeId": "321c5296-6bd8-c676-56d0-50cd67601367",
+      "occurredAt": "2026-09-07T01:43:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-07T05:30:00.000Z",
+      "updatedAt": "2026-09-07T05:30:00.000Z"
+    },
+    {
+      "id": "e9526a69-d97e-967b-6c18-d982d1dcec53",
+      "episodeId": "eb25f8a1-fc2e-6a59-1ce3-bc0c10755c97",
+      "occurredAt": "2026-09-08T01:34:00.000Z",
+      "outcome": "got_up",
+      "createdAt": "2026-09-08T05:30:00.000Z",
+      "updatedAt": "2026-09-08T05:30:00.000Z"
+    },
+    {
+      "id": "044f1574-f037-afc6-44d8-2a531289bafa",
+      "episodeId": "9212824c-83c8-cb28-eb4e-d2e3895e8b6b",
+      "occurredAt": "2026-09-09T02:42:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-09T05:30:00.000Z",
+      "updatedAt": "2026-09-09T05:30:00.000Z"
+    },
+    {
+      "id": "f81e54dd-1c05-02c6-f029-05313d0a270b",
+      "episodeId": "1f2642aa-dcde-d204-43b3-0f66110e2cb6",
+      "occurredAt": "2026-09-11T01:30:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-11T05:30:00.000Z",
+      "updatedAt": "2026-09-11T05:30:00.000Z"
+    },
+    {
+      "id": "eea7bb64-33a7-1568-2e5f-950c0ce5af69",
+      "episodeId": "1f2642aa-dcde-d204-43b3-0f66110e2cb6",
+      "occurredAt": "2026-09-11T01:44:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-11T05:30:00.000Z",
+      "updatedAt": "2026-09-11T05:30:00.000Z"
+    },
+    {
+      "id": "83a4e629-3080-3889-fa61-97748d118e37",
+      "episodeId": "8005ce74-7218-88ff-4a3a-df9934b3ff60",
+      "occurredAt": "2026-09-12T01:30:00.000Z",
+      "outcome": "stayed_awake",
+      "createdAt": "2026-09-12T05:30:00.000Z",
+      "updatedAt": "2026-09-12T05:30:00.000Z"
+    },
+    {
+      "id": "a887ae22-1b35-411b-7272-3b9cef44c0d5",
+      "episodeId": "8005ce74-7218-88ff-4a3a-df9934b3ff60",
+      "occurredAt": "2026-09-12T01:35:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-12T05:30:00.000Z",
+      "updatedAt": "2026-09-12T05:30:00.000Z"
+    },
+    {
+      "id": "d644de2f-0dec-6823-fb5c-9d5658f92dea",
+      "episodeId": "64a149f5-e383-8b9e-d5a9-422a8bc08311",
+      "occurredAt": "2026-09-13T01:38:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-13T05:30:00.000Z",
+      "updatedAt": "2026-09-13T05:30:00.000Z"
+    },
+    {
+      "id": "e13e213e-bdaa-ea00-a01d-616f121ae3e6",
+      "episodeId": "64a149f5-e383-8b9e-d5a9-422a8bc08311",
+      "occurredAt": "2026-09-13T02:42:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-13T05:30:00.000Z",
+      "updatedAt": "2026-09-13T05:30:00.000Z"
+    },
+    {
+      "id": "aa4c5c60-15a0-cce6-0e2e-c40a29ca862d",
+      "episodeId": "64a149f5-e383-8b9e-d5a9-422a8bc08311",
+      "occurredAt": "2026-09-13T02:51:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-13T05:30:00.000Z",
+      "updatedAt": "2026-09-13T05:30:00.000Z"
+    },
+    {
+      "id": "fc2325a9-f8fd-d208-5434-8156f637a468",
+      "episodeId": "b153d69c-3e01-aaa6-9949-8ac4482cc78e",
+      "occurredAt": "2026-09-13T23:50:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-14T05:30:00.000Z",
+      "updatedAt": "2026-09-14T05:30:00.000Z"
+    },
+    {
+      "id": "43a08f06-1742-0e94-0144-702bc6b789ef",
+      "episodeId": "00460d69-2ed6-5411-5b49-156137c60e98",
+      "occurredAt": "2026-09-16T02:43:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-16T05:30:00.000Z",
+      "updatedAt": "2026-09-16T05:30:00.000Z"
+    },
+    {
+      "id": "63b759f5-98b8-1c66-e10c-167dc8b6eaff",
+      "episodeId": "4cb59aa7-05c2-2d3f-64db-c8d30aaaaf81",
+      "occurredAt": "2026-09-17T01:40:00.000Z",
+      "outcome": "unknown",
+      "createdAt": "2026-09-17T05:30:00.000Z",
+      "updatedAt": "2026-09-17T05:30:00.000Z"
+    },
+    {
+      "id": "26433798-7e83-4904-fc17-3498b87e4e2b",
+      "episodeId": "4cb59aa7-05c2-2d3f-64db-c8d30aaaaf81",
+      "occurredAt": "2026-09-17T03:23:00.000Z",
+      "outcome": "got_up",
+      "createdAt": "2026-09-17T05:30:00.000Z",
+      "updatedAt": "2026-09-17T05:30:00.000Z"
+    },
+    {
+      "id": "f5a2d879-5c57-532b-a31a-49dd22126540",
+      "episodeId": "d38f8c45-041d-cd94-cdff-5a1cd01a914c",
+      "occurredAt": "2026-09-20T01:31:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-20T05:30:00.000Z",
+      "updatedAt": "2026-09-20T05:30:00.000Z"
+    },
+    {
+      "id": "0cfff054-8efb-a442-738e-0b77d5f860c3",
+      "episodeId": "d38f8c45-041d-cd94-cdff-5a1cd01a914c",
+      "occurredAt": "2026-09-20T02:50:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-20T05:30:00.000Z",
+      "updatedAt": "2026-09-20T05:30:00.000Z"
+    },
+    {
+      "id": "43fb9fbc-d89c-36b2-130f-27b2cf28f65e",
+      "episodeId": "74fa9412-00d9-3534-4387-ee7b7d42646f",
+      "occurredAt": "2026-09-21T01:40:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-21T05:30:00.000Z",
+      "updatedAt": "2026-09-21T05:30:00.000Z"
+    },
+    {
+      "id": "bd65680c-3b11-85d9-3489-22d7c1a624dc",
+      "episodeId": "74fa9412-00d9-3534-4387-ee7b7d42646f",
+      "occurredAt": "2026-09-21T02:51:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-21T05:30:00.000Z",
+      "updatedAt": "2026-09-21T05:30:00.000Z"
+    },
+    {
+      "id": "61ef7bd1-d874-bc79-7e73-6d5f75d8d8a4",
+      "episodeId": "74fa9412-00d9-3534-4387-ee7b7d42646f",
+      "occurredAt": "2026-09-21T03:11:00.000Z",
+      "outcome": "stayed_awake",
+      "createdAt": "2026-09-21T05:30:00.000Z",
+      "updatedAt": "2026-09-21T05:30:00.000Z"
+    },
+    {
+      "id": "7b7fec4b-0331-2ead-2229-30ae9158d4a8",
+      "episodeId": "32c32444-a48c-1d5c-a1fe-b6249df2025f",
+      "occurredAt": "2026-09-22T02:51:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-22T05:30:00.000Z",
+      "updatedAt": "2026-09-22T05:30:00.000Z"
+    },
+    {
+      "id": "33020ccd-8c90-473e-e4c7-17fdfe48ef63",
+      "episodeId": "acfb2d5e-37ba-c233-b133-0c3f197a14e2",
+      "occurredAt": "2026-09-22T23:57:00.000Z",
+      "outcome": "got_up",
+      "createdAt": "2026-09-23T05:30:00.000Z",
+      "updatedAt": "2026-09-23T05:30:00.000Z"
+    },
+    {
+      "id": "4305e986-8629-2bb5-bf5b-411b24491df6",
+      "episodeId": "13932904-757f-1cba-4a22-7f39047b2c10",
+      "occurredAt": "2026-09-24T01:31:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-24T05:30:00.000Z",
+      "updatedAt": "2026-09-24T05:30:00.000Z"
+    },
+    {
+      "id": "24056360-ba28-a679-4d4c-a9c767c98fb9",
+      "episodeId": "1cd86fc1-e309-6619-4791-c2e9823d11ed",
+      "occurredAt": "2026-09-25T23:56:00.000Z",
+      "outcome": "stayed_awake",
+      "createdAt": "2026-09-26T05:30:00.000Z",
+      "updatedAt": "2026-09-26T05:30:00.000Z"
+    },
+    {
+      "id": "d7196189-1ef3-ea44-50ea-7da760487e15",
+      "episodeId": "1cd86fc1-e309-6619-4791-c2e9823d11ed",
+      "occurredAt": "2026-09-26T01:32:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-26T05:30:00.000Z",
+      "updatedAt": "2026-09-26T05:30:00.000Z"
+    },
+    {
+      "id": "d6cff718-5699-08f6-c030-1b2153158ce4",
+      "episodeId": "1cd86fc1-e309-6619-4791-c2e9823d11ed",
+      "occurredAt": "2026-09-26T01:37:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-26T05:30:00.000Z",
+      "updatedAt": "2026-09-26T05:30:00.000Z"
+    },
+    {
+      "id": "0d36ce2c-1a09-a840-47d7-df790c5b4c59",
+      "episodeId": "40d28406-4a32-7e2d-bd6a-996de6cd10f1",
+      "occurredAt": "2026-09-27T00:02:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-27T05:30:00.000Z",
+      "updatedAt": "2026-09-27T05:30:00.000Z"
+    },
+    {
+      "id": "261f40df-ef82-d1a3-a28c-f7b1491e99f5",
+      "episodeId": "40d28406-4a32-7e2d-bd6a-996de6cd10f1",
+      "occurredAt": "2026-09-27T01:49:00.000Z",
+      "outcome": "got_up",
+      "createdAt": "2026-09-27T05:30:00.000Z",
+      "updatedAt": "2026-09-27T05:30:00.000Z"
+    },
+    {
+      "id": "50cb407a-82ce-786f-6fad-79364406c053",
+      "episodeId": "40d28406-4a32-7e2d-bd6a-996de6cd10f1",
+      "occurredAt": "2026-09-27T03:11:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-27T05:30:00.000Z",
+      "updatedAt": "2026-09-27T05:30:00.000Z"
+    },
+    {
+      "id": "23797d45-c0ae-d9c5-9d6b-023f736b96a0",
+      "episodeId": "cfdcc257-076d-490a-e25f-4b1c6d80de7c",
+      "occurredAt": "2026-09-28T01:44:00.000Z",
+      "outcome": "stayed_awake",
+      "createdAt": "2026-09-28T05:30:00.000Z",
+      "updatedAt": "2026-09-28T05:30:00.000Z"
+    },
+    {
+      "id": "e9729f3f-0c89-c001-7c4e-a6034944f2ce",
+      "episodeId": "cfdcc257-076d-490a-e25f-4b1c6d80de7c",
+      "occurredAt": "2026-09-28T02:41:00.000Z",
+      "outcome": "stayed_awake",
+      "createdAt": "2026-09-28T05:30:00.000Z",
+      "updatedAt": "2026-09-28T05:30:00.000Z"
+    },
+    {
+      "id": "6a34b371-78e1-0e70-2bb7-1c682097798c",
+      "episodeId": "cfdcc257-076d-490a-e25f-4b1c6d80de7c",
+      "occurredAt": "2026-09-28T03:13:00.000Z",
+      "outcome": "unknown",
+      "createdAt": "2026-09-28T05:30:00.000Z",
+      "updatedAt": "2026-09-28T05:30:00.000Z"
+    },
+    {
+      "id": "35372235-133e-6153-2962-59c8a4a915d0",
+      "episodeId": "429a7079-a71f-11b2-f9ee-8bc8bd1e6912",
+      "occurredAt": "2026-09-29T02:46:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-29T05:30:00.000Z",
+      "updatedAt": "2026-09-29T05:30:00.000Z"
+    },
+    {
+      "id": "5e49422a-3d37-6642-51bc-d77a1751f579",
+      "episodeId": "ff18fe33-5534-a034-e800-9d9073f6e53d",
+      "occurredAt": "2026-09-30T01:32:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-09-30T05:30:00.000Z",
+      "updatedAt": "2026-09-30T05:30:00.000Z"
+    },
+    {
+      "id": "f7ba38b6-9304-106e-470b-4fad7f867d5f",
+      "episodeId": "69ac0f03-dee0-a843-bfe9-8f8c0524137f",
+      "occurredAt": "2026-10-01T01:40:00.000Z",
+      "outcome": "got_up",
+      "createdAt": "2026-10-01T05:30:00.000Z",
+      "updatedAt": "2026-10-01T05:30:00.000Z"
+    },
+    {
+      "id": "df75c883-d078-84b7-d943-55414fe04802",
+      "episodeId": "37495c5e-d93f-f716-dce4-7b21ca51e152",
+      "occurredAt": "2026-10-02T02:47:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-10-02T05:30:00.000Z",
+      "updatedAt": "2026-10-02T05:30:00.000Z"
+    },
+    {
+      "id": "1bea705e-c879-b663-3f9b-6bb272ee6a2e",
+      "episodeId": "79281c19-cde3-47ab-e54c-5de6c3813ce6",
+      "occurredAt": "2026-10-04T03:23:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-10-04T05:30:00.000Z",
+      "updatedAt": "2026-10-04T05:30:00.000Z"
+    },
+    {
+      "id": "91c3098c-3b8a-27ba-202a-b6fac844b8fd",
+      "episodeId": "d34d1c0d-f105-8667-1be0-3df0ae9c78bd",
+      "occurredAt": "2026-10-04T23:51:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-10-05T05:30:00.000Z",
+      "updatedAt": "2026-10-05T05:30:00.000Z"
+    },
+    {
+      "id": "f662222e-4dc4-ac8c-b70b-a858a53fddc9",
+      "episodeId": "d34d1c0d-f105-8667-1be0-3df0ae9c78bd",
+      "occurredAt": "2026-10-05T03:22:00.000Z",
+      "outcome": "unknown",
+      "createdAt": "2026-10-05T05:30:00.000Z",
+      "updatedAt": "2026-10-05T05:30:00.000Z"
+    },
+    {
+      "id": "47529194-75ef-d233-ff12-5eb44d307fe4",
+      "episodeId": "1cb4ba55-c38b-48a2-b2d6-43a26ffb726a",
+      "occurredAt": "2026-10-06T01:36:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-10-06T05:30:00.000Z",
+      "updatedAt": "2026-10-06T05:30:00.000Z"
+    },
+    {
+      "id": "3e0b25cd-e23f-03cc-d6e3-a71ea502e8a8",
+      "episodeId": "1cb4ba55-c38b-48a2-b2d6-43a26ffb726a",
+      "occurredAt": "2026-10-06T01:38:00.000Z",
+      "outcome": "unknown",
+      "createdAt": "2026-10-06T05:30:00.000Z",
+      "updatedAt": "2026-10-06T05:30:00.000Z"
+    },
+    {
+      "id": "077ef32a-3f3f-37ea-8c08-56a43c19c315",
+      "episodeId": "1cb4ba55-c38b-48a2-b2d6-43a26ffb726a",
+      "occurredAt": "2026-10-06T03:10:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-10-06T05:30:00.000Z",
+      "updatedAt": "2026-10-06T05:30:00.000Z"
+    },
+    {
+      "id": "f848a956-7ee5-e857-3489-3498114340ff",
+      "episodeId": "b2217139-08ba-9bd9-7e31-8ad63a0ea6e1",
+      "occurredAt": "2026-10-08T01:30:00.000Z",
+      "outcome": "got_up",
+      "createdAt": "2026-10-08T05:30:00.000Z",
+      "updatedAt": "2026-10-08T05:30:00.000Z"
+    },
+    {
+      "id": "3b164943-31a5-9c4a-d1eb-d086c40f3609",
+      "episodeId": "b2217139-08ba-9bd9-7e31-8ad63a0ea6e1",
+      "occurredAt": "2026-10-08T01:46:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-10-08T05:30:00.000Z",
+      "updatedAt": "2026-10-08T05:30:00.000Z"
+    },
+    {
+      "id": "ec032e6b-2579-5c18-9844-f476f2e2054d",
+      "episodeId": "9fa40dd6-f3b1-7af0-1be7-f3cf4b80b828",
+      "occurredAt": "2026-10-09T00:04:00.000Z",
+      "outcome": "stayed_awake",
+      "createdAt": "2026-10-09T05:30:00.000Z",
+      "updatedAt": "2026-10-09T05:30:00.000Z"
+    },
+    {
+      "id": "a70828a7-2f7d-ba08-30d0-a2b8544940e1",
+      "episodeId": "0f650638-b5b9-4af3-0d45-6be06a56aac3",
+      "occurredAt": "2026-10-11T01:31:00.000Z",
+      "outcome": "unknown",
+      "createdAt": "2026-10-11T05:30:00.000Z",
+      "updatedAt": "2026-10-11T05:30:00.000Z"
+    },
+    {
+      "id": "4fd3e758-082a-2f4d-77b5-abcbbf0e11e0",
+      "episodeId": "0f650638-b5b9-4af3-0d45-6be06a56aac3",
+      "occurredAt": "2026-10-11T01:46:00.000Z",
+      "outcome": "unknown",
+      "createdAt": "2026-10-11T05:30:00.000Z",
+      "updatedAt": "2026-10-11T05:30:00.000Z"
+    },
+    {
+      "id": "e5a15b79-bcc0-fd98-5d3f-69ce52c4641b",
+      "episodeId": "5b4c0d73-6150-2dee-3518-5376c2410ad1",
+      "occurredAt": "2026-10-13T01:35:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-10-13T05:30:00.000Z",
+      "updatedAt": "2026-10-13T05:30:00.000Z"
+    },
+    {
+      "id": "cfd3bb74-3f7d-c86b-692a-4f0ea1b49bf7",
+      "episodeId": "5b4c0d73-6150-2dee-3518-5376c2410ad1",
+      "occurredAt": "2026-10-13T03:24:00.000Z",
+      "outcome": "fell_asleep_again",
+      "createdAt": "2026-10-13T05:30:00.000Z",
+      "updatedAt": "2026-10-13T05:30:00.000Z"
+    }
+  ]
+}

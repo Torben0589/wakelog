@@ -1,0 +1,114 @@
+/* =====================================================================
+   WakeLog – Designsystem
+   Alle Farben ausschließlich über diese Variablen. data-theme wird von
+   index.html (vor dem ersten Rendern) und src/lib/settings.ts gesetzt.
+   Kontraste: Text/Hintergrund ≥ 7:1, Akzent-/Statusfarben auf Fläche ≥ 4.5:1
+   ===================================================================== */
+
+:root,
+:root[data-theme='light'] {
+  color-scheme: light;
+  --bg: #f3f5f9;
+  --surface: #ffffff;
+  --surface-2: #eef1f7;
+  --surface-3: #e3e8f1;
+  --border: #d9dfea;
+  --text: #121d33;
+  --text-2: #3e4b64;
+  --muted: #5d6b84;
+
+  --primary: #2a52c2;
+  --primary-hover: #2346aa;
+  --primary-contrast: #ffffff;
+  --primary-soft: #e2e9fb;
+  --accent: #0b746f;
+  --accent-soft: #daf1ee;
+
+  --danger: #b42318;
+  --danger-soft: #fde8e6;
+  --warning: #7a4f00;
+  --warning-soft: #fff2d3;
+  --success: #0b746f;
+
+  --o-sleep: #4a57c9;
+  --o-sleep-soft: #e6e8fa;
+  --o-awake: #8f5300;
+  --o-awake-soft: #fdf0dc;
+  --o-up: #0b746f;
+  --o-up-soft: #daf1ee;
+  --o-unknown: #5d6b84;
+  --o-unknown-soft: #eceff4;
+
+  --chart-bar: #3b63cf;
+  --chart-bar-selected: #0b746f;
+  --chart-grid: #e4e8f0;
+  --chart-axis: #5d6b84;
+
+  --backdrop: rgba(18, 29, 51, 0.38);
+  --shadow-sm: 0 1px 2px rgba(18, 29, 51, 0.06);
+  --shadow: 0 1px 2px rgba(18, 29, 51, 0.05), 0 6px 20px rgba(18, 29, 51, 0.06);
+  --tabbar-bg: rgba(255, 255, 255, 0.86);
+  --topbar-bg: rgba(243, 245, 249, 0.86);
+  --focus: #2a52c2;
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --bg: #0a1220;
+  --surface: #111b2c;
+  --surface-2: #17233a;
+  --surface-3: #1f2d48;
+  --border: #243453;
+  --text: #e8eef8;
+  --text-2: #bcc7da;
+  --muted: #94a2bb;
+
+  --primary: #84a6ff;
+  --primary-hover: #a0bbff;
+  --primary-contrast: #0a1220;
+  --primary-soft: #1b2a4d;
+  --accent: #5fd4c8;
+  --accent-soft: #10302f;
+
+  --danger: #ff8f85;
+  --danger-soft: #3b1b1d;
+  --warning: #f3c56b;
+  --warning-soft: #352a12;
+  --success: #5fd4c8;
+
+  --o-sleep: #a3adff;
+  --o-sleep-soft: #1e2350;
+  --o-awake: #f3c56b;
+  --o-awake-soft: #352a12;
+  --o-up: #5fd4c8;
+  --o-up-soft: #10302f;
+  --o-unknown: #a5b1c7;
+  --o-unknown-soft: #1f2a3e;
+
+  --chart-bar: #7d9fff;
+  --chart-bar-selected: #5fd4c8;
+  --chart-grid: #1f2c45;
+  --chart-axis: #94a2bb;
+
+  --backdrop: rgba(0, 0, 0, 0.55);
+  --shadow-sm: none;
+  --shadow: 0 1px 0 rgba(255, 255, 255, 0.03) inset, 0 8px 24px rgba(0, 0, 0, 0.25);
+  --tabbar-bg: rgba(14, 22, 37, 0.88);
+  --topbar-bg: rgba(10, 18, 32, 0.86);
+  --focus: #84a6ff;
+}
+
+:root {
+  --radius-sm: 10px;
+  --radius: 16px;
+  --radius-lg: 22px;
+  --space: 16px;
+  --touch: 48px;
+  --font: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-num: -apple-system, BlinkMacSystemFont, 'SF Pro Rounded', 'SF Pro Text', 'Segoe UI', Roboto, sans-serif;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+  --tabbar-h: 60px;
+}
